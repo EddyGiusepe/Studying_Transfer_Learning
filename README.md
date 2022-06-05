@@ -26,6 +26,12 @@ A maioria dos problemas envolvendo ``visão computacional`` usam conjuntos de da
 
 
 
+Links de estudo:
+
+* [Tutorial: Transfer Learning aplicado no reconhecimento de flores](https://medium.com/ensina-ai/tutorial-transfer-learning-3972cac5e9b5)
+
+* [Improve your model accuracy by Transfer Learning](https://medium.com/data-science-101/transfer-learning-57ce3b98650)
+
 
 
 
